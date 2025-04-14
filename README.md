@@ -88,4 +88,5 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 ![](https://safe.reku.me/2mfNt3exzJ3n.png)
 - Repeat as you need (ideally only just enough)
+
 You have finished the post installation configuration now.
